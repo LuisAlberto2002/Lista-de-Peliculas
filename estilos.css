@@ -1,0 +1,48 @@
+#boton:hover{
+    background-color: green;
+    color: white;
+}
+#mostrar:hover{
+    background-color: blue;
+    color: white;
+}
+
+#inicio_header{
+    background-color: gray;
+    padding: 0;
+    margin: 0;
+    height: 70px;
+}
+
+#boton:active{
+    background-color: white;
+    color: red;
+}
+
+
+#mostrar:active{
+    background-color: white;
+    color: red;
+}
+
+.enlace{
+    padding-top: 150px;
+    margin-top:150px;
+    margin-left: 300px;
+}
+div{
+    display: inline-block;
+}
+
+#ingresoPelicula{
+    margin-left: 30%;
+    margin-right: 40%;
+    margin-top: 100px;
+}
+
+input{
+    margin: 5px;
+}
+button{
+    margin-left: 50px;
+}
